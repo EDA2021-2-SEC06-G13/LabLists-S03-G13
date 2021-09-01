@@ -36,4 +36,4 @@ el numero de elementos que quieren ser copiados a partir de la lista original y 
 
 ¿Observó algún cambio en el comportamiento del programa al cambiar la implementación del
 parámetro “ARRAY_LIST” a “SINGLE_LINKED”?
-'''-No se observo un cambio significativo en el comportamiento del programa, pues este corrio sin problema alguno y sin ningun tipo de tiempo adicional al que estaba corriendo anteriormente. 
+'''-No se observo un cambio significativo en el comportamiento del programa, pues este corrio sin problema alguno. No obstante, tuvo un recorrido de tiempo menor al que estaba corriendo anteriormente. 
